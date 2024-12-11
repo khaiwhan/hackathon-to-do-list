@@ -9,5 +9,6 @@
 
 การออกแบบเรียบง่าย แต่ต้อง Responsive
 ใช้ Angular Template Binding และ Event Binding
+
 #
 ตัวอย่าง : https://khaiwhan.github.io/to-do-list-angular/
