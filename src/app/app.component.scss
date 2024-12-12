@@ -1,0 +1,12 @@
+// .hover-todo-list:hover{
+//     background-color: blue;
+// }
+.line-through{
+    text-decoration: line-through;
+    color: white;
+}
+
+.card-content:hover{
+    // box-shadow: 1px 10px 10px orange;
+    transition: 1s ease-in-out;
+}
